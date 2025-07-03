@@ -22,3 +22,7 @@ npm start
 - Görev tamamlama ve tamamlananları görsel olarak ayırma
 - Görevleri filtreleme (tümü, tamamlananlar, tamamlanmayanlar)
 - Responsive tasarım (mobil/masaüstü uyumlu)
+
+- ## Ekran Görüntüleri
+
+![Görev Listesi](./screenshots/gorev-listesi.png)

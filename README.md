@@ -1,28 +1,29 @@
-# Görev Takip Uygulaması
+# Task Tracking Application
 
-Bu proje, bir şirket içinde çalışanların görevlerini takip edebilmesi için geliştirilmiş bir React uygulamasıdır. Kullanıcılar yeni görevler ekleyebilir, tamamlanan görevleri işaretleyebilir ve görevleri filtreleyebilir.
+A specialized React application designed for employees to efficiently track and manage daily workplace tasks. This project focuses on a clean user interface and functional state management for task lifecycles.
 
-## Kurulum ve Çalıştırma
+## Key Features
+- **Task Management:** Create, edit, and delete tasks with ease.
+- **Visual Status Tracking:** Mark tasks as completed with distinct visual separation.
+- **Advanced Filtering:** Filter tasks by status: All, Completed, or Pending.
+- **Responsive Design:** Fully optimized for both mobile and desktop environments.
 
-1. Repoyu klonlayın:
-git clone https://github.com/akifpsh/gorev-takip.git
-cd gorev-takip
+## Installation & Setup
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/akifpsh/gorev-takip.git](https://github.com/akifpsh/gorev-takip.git)
+   cd gorev-takip
 
-2. Bağımlılıkları yükleyin:
-npm install
+2. Install dependencies:
+  npm install
 
-3. Projeyi başlatın:
-npm start
+3. Start the application:
+  npm start
 
-5. [http://localhost:3000](http://localhost:3000) adresinde uygulamayı görüntüleyebilirsiniz.
+4. Access the app:
+  Open http://localhost:3000 in your browser.
 
-## Özellikler
+5. Screenshots  
+  ![Task Tracking Application](./screenshots/gorev-listesi.png)
 
-- Görev ekleme, silme ve düzenleme
-- Görev tamamlama ve tamamlananları görsel olarak ayırma
-- Görevleri filtreleme (tümü, tamamlananlar, tamamlanmayanlar)
-- Responsive tasarım (mobil/masaüstü uyumlu)
-
-- ## Ekran Görüntüleri
-
-![Görev Listesi](./screenshots/gorev-listesi.png)
+This project is licensed under the MIT License.
